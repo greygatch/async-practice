@@ -1,4 +1,4 @@
-const request = require('request-promise');
+import request from 'request-promise';
 
 // request('http://swapi.co/api/people/1')
 //   .then(response => {

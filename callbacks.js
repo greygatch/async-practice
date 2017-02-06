@@ -1,4 +1,4 @@
-const request = require('request');
+import request from 'request';
 
 request('http://swapi.co/api/people/1', (err, response, body) => {
   if(err){
