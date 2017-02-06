@@ -1,0 +1,12 @@
+{
+  "name": "async-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Evan Gatchell <egatchell@changehealthcare.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
